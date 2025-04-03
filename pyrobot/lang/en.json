@@ -1,0 +1,18 @@
+{
+    "start": "Hello! Please send your phone number (for example, +998901234567). Or use /help",
+    "phone_check": "Your phone number has been accepted: {}. Please send the verification code you received from Telegram.",
+    "code_error": "The verification code is incorrect. Please try again.",
+    "code_success": "Verification was successful. Session created.",
+    "back": "Back",
+    "sql_error": "Session {} can't start.",
+    "2fe_password": "Please enter the 2FA password for your account.",
+    "checking_password": "Checking password...",
+    "password_error": "Password is incorrect. Please try again.",
+    "2fa_success": "2FA password is correct. Session created.",
+    "help_text": "Commands:\n\n/start - Start the bot\n/help - Show this message\n/count - count your sessions\n/check_on_work - check on work your sessions",
+    "count_text": "You create {} sessions.",
+    "error_text": "An error occurred. Please try again.",
+    "no_sessions": "You don't have any sessions.",
+    "check_on_work_text": "Sessions: {}\n🔋Worked: {}\n🪫Not worked: {}"
+    
+}

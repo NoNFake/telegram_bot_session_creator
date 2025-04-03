@@ -1,0 +1,18 @@
+{
+    "en": {
+        "start": "Hello! Please send your phone number (for example, +998901234567).",
+        "phone_check": "Your phone number has been accepted: {}. Please send the verification code you received from Telegram.",
+        "code_error": "The verification code is incorrect. Please try again.",
+        "code_success": "Verification was successful. Session created.",
+        "back": "Back",
+        "count": "You create {} sessions."
+    },
+    "uz": {
+        "start": "Assalomu alaykum! Iltimos, telefon raqamingizni yuboring (masalan, +998901234567).",
+        "phone_check": "Telefon raqamingiz qabul qilindi: {}. Iltimos, Telegramdan kelgan tasdiqlash kodini yuboring.",
+        "code_error": "Tasdiqlash kodi noto'g'ri. Iltimos, qaytadan urinib ko'ring.",
+        "code_success": "Tasdiqlash muvaffaqiyatli amalga oshirildi. Session yaratildi.",
+        "back": "Orqaga",
+        "count": "Siz {} ta session yaratdingiz."
+    }
+}

