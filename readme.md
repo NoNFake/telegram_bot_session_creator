@@ -10,7 +10,7 @@
 > This project is not affiliated with Telegram in any way. It is an independent tool created for educational purposes only.
 
 ## Example work:
-<img src='https://github.com/NoNFake/tg_bot_session_creator/blob/main/example/example_work.png' width=20%>
+<img src='https://github.com/NoNFake/telegram_bot_session_creator/blob/main/example/example_work.png' width=27%>
 
 
 ## Proxy setup
